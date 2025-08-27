@@ -1,16 +1,16 @@
 import React from 'react';
 import Header from '../component/Header';
-// import Footer from '../component/Footer';
+import Footer from '../component/Footer';
 import { Outlet } from 'react-router-dom';
 
 const Layout = () => {
   return (
     <div>
       <Header />
-      <main style={{ paddingTop: '100px' }}> {/* push content below header */}
+      <main style={{ paddingTop: '100px' }}>
         <Outlet />
       </main>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 };
