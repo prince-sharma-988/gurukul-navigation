@@ -1,0 +1,140 @@
+.footer {
+    
+  width: 100%;
+  color: white;
+  background: linear-gradient(270deg, #3675e9, #10364e, #2b66e6);
+  background-size: 600% 600%;
+  animation: bgAnimation 15s ease infinite;
+  padding: 40px 0 20px;
+}
+
+@keyframes bgAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.head{
+    position: absolute;
+    font-size: 20px;
+    top:10px;
+    left: 80px;
+}
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+.footer-left {
+    position: relative;
+  flex: 1 1 300px;
+  min-width: 250px;
+  left: -300px;
+}
+
+.footer-logo img {
+    position: relative;
+  width: 150px;
+  height: auto;
+  margin-bottom: 12px;
+  left:-40px;
+  top: -18px;
+}
+
+.footer-left p {
+  font-size: 14px;
+  line-height: 1.5;
+  max-width: 300px;
+}
+
+.footer-social {
+  margin-top: 15px;
+}
+
+.footer-social a {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  line-height: 40px;
+  margin-right: 10px;
+  transition: background 0.3s ease;
+}
+
+.footer-social a:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.footer-links, .footer-support {
+  flex: 1 1 200px;
+  min-width: 150px;
+}
+
+.footer-links h4, .footer-support h4 {
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.footer-links ul, .footer-support ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links ul li, .footer-support ul li {
+  margin-bottom: 8px;
+}
+
+.footer-links ul li a, .footer-support ul li a {
+  color: #b8c6d9;
+  font-size: 14px;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-links ul li a:hover, .footer-support ul li a:hover {
+  color: white;
+}
+
+.footer-bottom {
+  margin-top: 30px;
+  padding-top: 15px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-size: 13px;
+  color: #b8c6d9;
+  padding: 0 20px;
+}
+
+.footer-bottom-links a {
+  margin-left: 15px;
+  color: #b8c6d9;
+  text-decoration: none;
+}
+
+.footer-bottom-links a:hover {
+  color: white;
+}
+
+/* Mobile Responsive Fix */
+@media (max-width: 768px) {
+  .footer-container {
+    flex-direction: column;
+    text-align: left;
+    gap: 20px;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+}
