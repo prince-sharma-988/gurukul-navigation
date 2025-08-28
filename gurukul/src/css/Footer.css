@@ -1,11 +1,14 @@
 .footer {
     
-  width: 100%;
+  width: 90vw;
   color: white;
   background: linear-gradient(270deg, #3675e9, #10364e, #2b66e6);
   background-size: 600% 600%;
   animation: bgAnimation 15s ease infinite;
   padding: 40px 0 20px;
+  right: -100px;
+  padding-right:250px ;
+  margin-left: -90px;
 }
 
 @keyframes bgAnimation {
@@ -21,11 +24,13 @@
 }
 .footer-container {
   display: flex;
+  position: relative;
   justify-content: space-between;
   flex-wrap: wrap;
   max-width: 1200px;
   margin: auto;
   padding: 0 20px;
+  left: 290px;
 }
 
 .footer-left {
@@ -112,6 +117,7 @@
   font-size: 13px;
   color: #b8c6d9;
   padding: 0 20px;
+  margin-left: 100px;
 }
 
 .footer-bottom-links a {
@@ -124,7 +130,7 @@
   color: white;
 }
 
-/* Mobile Responsive Fix */
+
 @media (max-width: 768px) {
   .footer-container {
     flex-direction: column;

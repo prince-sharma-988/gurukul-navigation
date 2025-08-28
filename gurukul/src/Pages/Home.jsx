@@ -1,164 +1,194 @@
-import React, { useEffect, useState } from 'react';
-import '../css/home.css';
+import "../css/home.css";
+import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
+import { useEffect, useState } from "react";
+
+import heroImg from "../assets/student.png";
+import locationIcon from "../assets/location.png";
+import airplaneIcon from "../assets/airplane.png";
+import micIcon from "../assets/mic.png";
+import settingsIcon from "../assets/settings.png";
+import locationPin from "../assets/location-pin.png";
+import graduateCap from "../assets/graduation.png";
+import barChart from "../assets/chart.png";
+import starIcon from "../assets/star.png";
 
 export default function Home() {
-  const [scrollY, setScrollY] = useState(0);
+  const [coursesCount, setCoursesCount] = useState(0);
+  const [collegeCount, setCollegeCount] = useState(0);
 
+  
   useEffect(() => {
-    const handleScroll = () => setScrollY(window.scrollY);
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
+    let courses = 0;
+    let colleges = 0;
+
+    const coursesInterval = setInterval(() => {
+      courses += 5;
+      if (courses >= 100) {
+        courses = 100;
+        clearInterval(coursesInterval);
+      }
+      setCoursesCount(courses);
+    }, 20);
+
+    const collegesInterval = setInterval(() => {
+      colleges += 2;
+      if (colleges >= 32) {
+        colleges = 32;
+        clearInterval(collegesInterval);
+      }
+      setCollegeCount(colleges);
+    }, 40);
+
+    return () => {
+      clearInterval(coursesInterval);
+      clearInterval(collegesInterval);
+    };
   }, []);
 
   return (
-    <div className="home-container">
-      <section className="hero-section">
-        <div className="hero-content">
-          <div className="hero-text">
-            <h1 className="main-title">Learn a New Skill</h1>
-            <h2 className="gradient-title">Everyday, Anytime,</h2>
-            <h2 className="mixed-title">
-              and <span className="gradient-text">Anywhere</span>
-            </h2>
-          </div>
-          <div className="hero-image">
-            <img src="https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=600&h=700&fit=crop" alt="Student with books" />
-          </div>
-        </div>
-        <div className="hero-decorations">
-          <div className="yellow-ellipse"></div>
-          <div className="orange-dot"></div>
-        </div>
-      </section>
-
-      <section className="experience-section">
-        <div className="experience-content">
-          <h2 className="section-title">Clear Paths, Smarter Campuses Experience</h2>
-          <p className="section-description">
-            Lost on campus? We've all been there! Students rushing to class, visitors trying to find the right building, or staff needing to reach a department quickly. Navigating a large campus shouldn't be a challenge. beComap's Indoor Navigation solves this by providing clear, step-by-step directions across the campus, guiding everyone to the right classrooms, offices, and campus services. Our system keeps the campus organized, informed, and easy to navigate, creating a smoother experience for all.
+    <>
+  
+      <section className="hero-container">
+        <motion.div
+          className="hero-left"
+          initial={{ opacity: 0, x: -50 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ duration: 0.8 }}
+        >
+          <h1>
+            Navigate Your <span className="highlight-pink">Future</span> <br />
+            with the Right <span className="highlight-pink">College</span>
+          </h1>
+          <p className="sub-text">
+            650+ colleges and schools for you to learn and explore new
+            opportunities. Learn from top colleges and graduated teachers.
           </p>
-        </div>
-        <div className="progress-lines">
-          <div className="progress-line active"></div>
-          <div className="progress-line"></div>
-          <div className="progress-line"></div>
-        </div>
+          <div className="hero-buttons">
+            <Link to={"/College"}>
+              <motion.button
+                className="btn-primary"
+                whileHover={{ scale: 1.05, boxShadow: "0 0 15px rgba(209, 72, 199, 0.6)" }}
+              >
+                Start Find
+              </motion.button>
+            </Link>
+            <motion.button
+              className="btn-secondary"
+              whileHover={{ scale: 1.05, boxShadow: "0 0 15px rgba(90, 56, 211, 0.5)" }}
+              onClick={() => {
+                document.getElementById("how-it-works")?.scrollIntoView({ behavior: "smooth" });
+  }}
+            >
+              How it works
+            </motion.button>
+          </div>
+          <div className="stats">
+            <div>
+              <h3 className="yellow">{coursesCount}+</h3>
+              <p>Courses to choose from</p>
+            </div>
+            <div>
+              <h3 className="blue">{collegeCount}+</h3>
+              <p>Colleges and schools</p>
+            </div>
+          </div>
+        </motion.div>
+
+        <motion.div
+          className="hero-right"
+          initial={{ opacity: 0, x: 50 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ duration: 0.8, delay: 0.2 }}
+        >
+          <motion.img
+            src={heroImg}
+            alt="student"
+            className="student"
+            animate={{ y: [0, -10, 0] }}
+            transition={{ repeat: Infinity, duration: 3, ease: "easeInOut" }}
+          />
+        </motion.div>
       </section>
 
-      <section className="services-section">
-        <div className="services-header">
-          <h2 className="services-title">We Offer Best Services</h2>
-        </div>
-        <div className="services-grid">
-          <div className="service-card">
-            <div className="service-icon">
-              <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=80&h=80&fit=crop" alt="Location" />
-            </div>
-            <h3 className="service-title">📡 Calculated Location</h3>
-            <p className="service-description">
-              We show you top colleges based on your exact location with accurate results.
-            </p>
-          </div>
-          
-          <div className="service-card active">
-            <div className="service-icon">
-              <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=80&h=80&fit=crop" alt="Travel" />
-            </div>
-            <h3 className="service-title">✈️ Best Colleges</h3>
-            <p className="service-description">
-              Get a curated list of the best colleges near you with details about their courses, rankings, and facilities.
-            </p>
-          </div>
-          
-          <div className="service-card">
-            <div className="service-icon">
-              <img src="https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=80&h=80&fit=crop" alt="Events" />
-            </div>
-            <h3 className="service-title">🎤 Local Events</h3>
-            <p className="service-description">
-              Stay updated on local college events, fests, and admission programs happening around you.
-            </p>
-          </div>
-          
-          <div className="service-card">
-            <div className="service-icon">
-              <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=80&h=80&fit=crop" alt="Settings" />
-            </div>
-            <h3 className="service-title">⚙️ Customization</h3>
-            <p className="service-description">
-              Filter colleges by stream, courses, fees, and facilities to find the one that best fits your needs.
-            </p>
-          </div>
-        </div>
-      </section>
+   
+      <motion.section
+        className="section about"
+        initial={{ opacity: 0, y: 50 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8 }}
+        viewport={{ once: true }}
+      >
+        <h2>
+          Clear Paths, Smarter Campuses <br /> Experience
+        </h2>
+        <p>
+          Lost on campus? We’ve all been there! Students rushing to class,
+          visitors trying to find the right building, or staff needing to reach
+          a department quickly...
+        </p>
 
-      <section className="confusion-section">
-        <img 
-          src="https://images.unsplash.com/photo-1706016899218-ebe36844f70e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx1bml2ZXJzaXR5JTIwY2FtcHVzJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzU2MjEzNzkwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral" 
-          alt="Campus background" 
-          className="confusion-background"
-        />
-        <div className="confusion-overlay">
-          <div className="confusion-content">
-            <h2 className="confusion-title">Say Goodbye to Campus Confusion</h2>
-            <p className="confusion-description">
-              Managing a large campus requires more than navigation, it involves tracking assets, assigning tasks, and optimizing resource use. For new students and visitors, navigating a campus with numerous buildings and hallways can be confusing. beComap simplifies this by providing clear, step-by-step directions, helping everyone find their way effortlessly. From the first day to daily routines, beComap makes campus operations and navigation easy and stress-free.
-            </p>
-            
-            <div className="features-list">
-              <div className="feature-item">
-                <span className="feature-check">✓</span>
-                <span>Easily Integrate Maps</span>
-              </div>
-              <div className="feature-item">
-                <span className="feature-check">✓</span>
-                <span>Multi-Language Support</span>
-              </div>
-              <div className="feature-item">
-                <span className="feature-check">✓</span>
-                <span>Stay Updated with Campus Alerts</span>
-              </div>
-              <div className="feature-item">
-                <span className="feature-check">✓</span>
-                <span>Stay Updated with Campus Alerts</span>
-              </div>
-              <div className="feature-item">
-                <span className="feature-check">✓</span>
-                <span>Stress-Free Parking for Students and Staff</span>
-              </div>
-            </div>
-          </div>
-          <div className="campus-image">
-            <img src="https://images.unsplash.com/photo-1562774053-701939374585?w=500&h=300&fit=crop" alt="Campus" />
-          </div>
+        <h2>
+          Why <span className="highlight-pink">Choose</span> Us?
+        </h2>
+        <div className="features-grid">
+          {[ 
+            { img: locationIcon, title: "Calculated Location", text: "We show you top colleges..." },
+            { img: airplaneIcon, title: "Best Colleges", text: "Get a curated list..." },
+            { img: micIcon, title: "Local Events", text: "Stay updated on local events..." },
+            { img: settingsIcon, title: "Customization", text: "Filter colleges by stream..." }
+          ].map((feature, i) => (
+            <motion.div
+              className="feature-card"
+              key={i}
+              whileHover={{ scale: 1.05, boxShadow: "0 8px 20px rgba(0,0,0,0.1)" }}
+              initial={{ opacity: 0, y: 30 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.5, delay: i * 0.1 }}
+              viewport={{ once: true }}
+            >
+              <img src={feature.img} alt="" />
+              <h3>{feature.title}</h3>
+              <p>{feature.text}</p>
+            </motion.div>
+          ))}
         </div>
-      </section>
+      </motion.section>
 
-      <section className="subscribe-section">
-        <div className="subscribe-content">
-          <h2 className="subscribe-title">
-            Subscribe to get information, latest news and other interesting events
-          </h2>
-          <div className="subscribe-form">
-            <div className="email-input-container">
-              <input type="email" placeholder="Your email" className="email-input" />
-            </div>
-            <button className="subscribe-button">Subscribe</button>
-          </div>
+      <motion.section
+        className="section how-it-works"
+        initial={{ opacity: 0, y: 50 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8 }}
+        viewport={{ once: true }}
+        id="how-it-works"
+      >
+        <h2>
+          How Our College Finder <span className="highlight-pink">Works</span>
+        </h2>
+        <div className="steps-grid">
+          {[
+            { img: locationPin, title: "Enter Your Location", text: "Type the city name..." },
+            { img: graduateCap, title: "Smart College Search", text: "We scan the database..." },
+            { img: barChart, title: "Compare and Explore", text: "See a list of colleges..." },
+            { img: starIcon, title: "Choose the Best College", text: "After checking all the options..." }
+          ].map((step, i) => (
+            <motion.div
+              className="step-card"
+              key={i}
+              whileHover={{ scale: 1.05, boxShadow: "0 8px 20px rgba(0,0,0,0.1)" }}
+              initial={{ opacity: 0, y: 30 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.5, delay: i * 0.1 }}
+              viewport={{ once: true }}
+            >
+              <img src={step.img} alt="" />
+              <h3>{step.title}</h3>
+              <p>{step.text}</p>
+            </motion.div>
+          ))}
         </div>
-        <div className="subscribe-decorations">
-          <div className="decoration-circles"></div>
-        </div>
-      </section>
-
-      <footer className="footer-section">
-        <div className="footer-content">
-          <div className="footer-logo">
-            <img src="https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=150&h=100&fit=crop" alt="Gurukul Navigation" />
-            <h3>Gurukul Navigation</h3>
-          </div>
-        </div>
-      </footer>
-    </div>
+      </motion.section>
+    </>
   );
 }

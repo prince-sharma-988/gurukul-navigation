@@ -3,11 +3,11 @@ import { createBrowserRouter, RouterProvider} from "react-router-dom";
 import Home from "./Pages/Home";
 import Layout from "./Layout/Layout";
 import Event from "./Pages/Event";
-import About from "./Pages/About";
-import Login from "./Pages/Login";  
-import Register from "./Pages/Resgister";
-import Navigation from "./Pages/Navigation";
+import Team from "./Pages/Team";
+import Login from "./component/Login";  
+
 import PageNotFound from "./Pages/Pagenotfound"
+import College from "./Pages/College";
 
 function App() {
 
@@ -17,24 +17,23 @@ function App() {
       element:<Layout />,
       children:[
         {
-          path:'home',
+          path:'/',
           element:<Home />
-        },
-        {
-          path:'register',
-          element:<Register />
-        },
+        },{
+         path:'Home',
+          element:<Home />},
+
         {
           path:'login',
           element:<Login />
         },
         {
-          path:'navigation',
-          element:<Navigation />
+          path:'college',
+          element:<College />
         },
         {
-          path:'About',
-          element:<About />
+          path:'Team',
+          element:<Team />
         },
         {
           path:'Event',

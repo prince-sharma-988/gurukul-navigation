@@ -1,0 +1,771 @@
+
+[
+  
+{
+    "id": 1,
+    "name": "Jhapa Model English School",
+    "type": "Private",
+    "level": "Nursery–12",
+    "location": " Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management",
+      "+2 Humanities",
+      "+2 Education"
+    ],
+    "info": "Jhapa Model English School is a well-established educational institution located in Damak-8, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management, +2 Humanities, +2 Education. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Jhapa Model English School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "jhapamodelenglishschool@gmail.com",
+    "phone": "985-2676620",
+    "map": "https://www.google.com/maps/dir/26.6599917,87.6926067/MM5V%2BM2W+Jhapa+Model+English+School,+%E0%A4%9C%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%B8+%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97,+Damak+57217/@26.6592391,87.6899942,1302m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39e58e21f6239257:0x888e95e310021d24!2m2!1d87.6925697!2d26.6592089?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6EGL11Z39RB_OtVuLIlPXpIo41Z_weHe2Ww&s",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsueI3mdhyo20pdOBafrMdXDrrXsHPKGTHw&s"
+  },
+  {
+    "id": 2,
+    "name": "Pathibhara English Secondary School",
+    "type": "Private",
+    "level": "Nursery–12",
+    "location": "Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Management",
+      "+2 Science",
+      "+2 Humanities"
+    ],
+    "info": "Pathibhara English Secondary School is a well-established educational institution located in Damak, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Management, +2 Science, +2 Humanities. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Pathibhara English Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "pathibharaenglishsecondaryschool@gmail.com",
+    "phone": "0236498756",
+    "map": "https://www.google.com/maps/dir/26.6630112,87.6543556/MM84%2B5W6+Pathibhara+English+Secondary+School,+Damak+57217/@26.664224,87.6532237,1302m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39e58e8a1db4dc45:0x9d32be165f9cd1c1!2m2!1d87.6572765!2d26.6654135?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN2RimJ5ugVZfFVBKEv-22zShCURb0Paw73A&s",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6v5fcLIy7f6XYvhprTZsyz72dZ230LQQwTA&s"
+  },
+  {
+    "id": 3,
+    "name": "Birat Jyoti English Boarding Secondary School",
+    "type": "Private",
+    "level": "1–12",
+    "location": "Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Management",
+      "+2 Science"
+    ],
+    "info": "Birat Jyoti English Boarding Secondary School is a well-established educational institution located in Anarmani, Birtamod, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Management, +2 Science. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Birat Jyoti English Boarding Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "biratjyotienglishboardingsecondaryschool@gmail.com",
+    "phone": "023-542708",
+    "map": "https://www.google.com/maps/dir/26.6197097,87.9916562/JX8R%2BQ7X+Birat+Jyoti+English+Boarding+Secondary+School,+Sainikmode,+Birtamod+57204/@26.6207408,87.9896231,1302m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39e5ba94d40b662d:0x8f0a94231050f1ea!2m2!1d87.9922034!2d26.620736?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIwGhwFKiF-W_yQTWAX9NxonPNDrBRaEbwg&s",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusMKkaHKmHXTwevw6rLSlVrL_a6WEYW_9YQ&s"
+  },
+  {
+    "id": 4,
+    "name": "Kankai Boarding English Secondary School",
+    "type": "Private",
+    "level": "1–12",
+    "location": "Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Management",
+      "+2 Science"
+    ],
+    "info": "Kankai Boarding English Secondary School is a well-established educational institution located in Birtamod, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Management, +2 Science. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Kankai Boarding English Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "kankaiboardingenglishsecondaryschool@gmail.com",
+    "phone": "981659234896",
+    "map": "https://www.google.com/maps/dir/26.6469509,87.8901233/Kankai+Secondary+School,+3+Jhapa+Rd,+Kankai+57200/@26.6435271,87.8887668,1116m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x39e5bd00aeac1cc9:0x416bf0959239c280!2m2!1d87.8896242!2d26.639362!5i2?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfIuK1mZVjsqUtEd5uMrNhX8USF0c9rXv-7g&s",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQuXziL6l6ewsJVMbeqAHmDvDsjc2qb3lOuw&s"
+    
+  },
+  {
+    "id": 5,
+    "name": "Manakamana Secondary School",
+    "type": "Community",
+    "level": "1–12",
+    "location": "Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management",
+      "+2 Humanities"
+    ],
+    "info": "Manakamana Secondary School is a well-established educational institution located in Birtamod, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management, +2 Humanities. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Manakamana Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "manakamanasecondaryschool@gmail.com",
+    "phone": "0235869475",
+    "map": "Manakamana Secondary School",
+    "image": "https://manakamanacollege.edu.np/file?filename=127460263766c6d6d2379b7.jpg&height=1920&width=1920",
+    "logo": "https://manakamanacollege.edu.np/img/school-logo.png?v20250822182728"
+  },
+  {
+    "id": 6,
+    "name": "Himalaya Secondary School",
+    "type": "Public",
+    "level": "Nursery–12",
+    "location": " Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Management",
+      "+2 Humanities",
+      "+2 Technical (Computer Engineering)",
+      "+2 Science",
+      "+2 Education"
+    ],
+    "info": "Himalaya Secondary School is a well-established educational institution located in Damak-2, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Management, +2 Humanities, +2 Technical (Computer Engineering), +2 Science, +2 Education. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Himalaya Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "himalaya.namuna@gmail.com",
+    "phone": "+977-23-580286",
+    "map": "https://www.google.com/maps/dir/26.6606658,87.6856411/Himalaya+Secondary+School,+2+Damak,+57217/@26.6616414,87.6855249,626m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39e58e02336b75eb:0xf3e9898df73e721f!2m2!1d87.6949517!2d26.6775924?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://himalayadmk.edu.np/wp-content/uploads/2025/05/IMG_4974-scaled.jpeg",
+    "logo": "https://media.edusanjal.com/__sized__/logos/himalayaa-thumbnail-200x200-70.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Global Educational Academy Secondary School",
+    "type": "Private",
+    "level": "PG–12",
+    "location": "Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Global Educational Academy Secondary School is a well-established educational institution located in Pashupati Marga, Damak. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Global Educational Academy Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "globaleducationalacademysecondaryschool@gmail.com",
+    "phone": "9815327559",
+    "map": "https://www.google.com/maps/dir/26.6601329,87.6977003/Global+Educational+Academy,+Rajendra+Bhattarai's+house,+11+Thana+Rd,+Damak+57217/@26.6628703,87.6975447,1302m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39e591fbc33d5ecb:0x9a69f617e816caaa!2m2!1d87.700125!2d26.6628655?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://i.ytimg.com/vi/SotbAXtRemI/maxresdefault.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc0cqNbugZj9P5LC_JB-KEB5pApAf2hzpDOg&s"
+  },
+  {
+    "id": 8,
+    "name": "Siddhartha Boarding Secondary School",
+    "type": "Private",
+    "level": "Nursery–12",
+    "location": "Siddhartha Tole, Damak, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management (Hotel Management)"
+    ],
+    "info": "Siddhartha Boarding Secondary School is a well-established educational institution located in Siddhartha Tole, Damak, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management (Hotel Management). The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Siddhartha Boarding Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "siddharthaboardingsecondaryschool@gmail.com",
+    "phone": "02354987315",
+    "map": "https://www.google.com/maps/dir/26.6576554,87.7011097/MP74%2BJ68+Siddhartha+Boarding+Secondary+School,+Ward+no.+7,+Damak+57217/@26.6674903,87.702325,2706m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39e591e6f614696b:0x3b8ad6ac6d781b01!2m2!1d87.7047144!2d26.6644299?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://plus2.virtualedufairnepal.com/uploads/plus2uploads/clients/siddharthaboardingsecondaryschool/featured_image/1597046566-siddhartha-jhapa-stall.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/87/Siddhartha_Boarding_Higher_Secondary_School_Logo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Balmiki Education Foundation",
+    "type": "Private",
+    "level": "Nursery–12",
+    "location": " Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Balmiki Education Foundation is a well-established educational institution located in Charpane, Birtamod, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Balmiki Education Foundation is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "balmikieducationfoundation@gmail.com",
+    "phone": "9832567839",
+    "map": "https://www.google.com/maps/dir/26.6414892,87.9848939/JXVM%2BRMR+Balmiki+Education+Foundation,+Birtamod+57204/@26.6446298,87.9815519,1302m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39e5ba59b0fdae57:0x5d1238c3a27342d!2m2!1d87.9841322!2d26.644625?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://photos.worldtravelserver.com/photo/41786/medium/77618019.jpg",
+    "logo": "https://media.edusanjal.com/__sized__/logos/447732282_880785547423283_6229857554790004479_n-thumbnail-200x200-70.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Green Field World School",
+    "type": "Private",
+    "level": "Nursery–12",
+    "location": "Birtamode, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Green Field World School is a well-established educational institution located in Birtamode, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Green Field World School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "greenfieldworldschool@gmail.com",
+    "phone": "0236784347",
+    "map": "",
+    "image": "https://www.greenfieldworldschool.edu.np/images/custom/gallery-809780428.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-rwpjd5BX7wCzhzOQMQwhu_TcApXb1QYnCw&s"
+  },
+  {
+    "id": 11,
+    "name": "Pashupati Academy English Secondary School",
+    "type": "Community",
+    "level": "ECD–12",
+    "location": "Jhiljhile, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Pashupati Academy English Secondary School is a well-established educational institution located in Jhiljhile, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Pashupati Academy English Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "pashupatiacademyenglishsecondaryschool@gmail.com",
+    "phone": "0236843655",
+    "map": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSid_BwL0AnI4YN7YEhZR9dsL5MOQmpfmF8yA&s",
+    "image": "New folder/image/Shree Pashupati Technical Secondary School.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvML2Ar5KmburJJU7pPGradZNxg7cb0oRPw&s"
+  },
+  {
+    "id": 12,
+    "name": "Jhiljhile Secondary School",
+    "type": "Community",
+    "level": "ECD–12",
+    "location": "Jhiljhile, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Jhiljhile Secondary School is a well-established educational institution located in Jhiljhile, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Jhiljhile Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "jhiljhilesecondaryschool@gmail.com",
+    "phone": "9857609326",
+    "map": "",
+    "image": "https://media.edusanjal.com/__sized__/cover_photo/Pokhariya_Secondary_School-thumbnail-1400x280-70.jpg",
+    "logo": "https://media.edusanjal.com/__sized__/logos/ganeshmansingh_logo-thumbnail-200x200-70.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Shree Pashupati Technical Secondary School",
+    "type": "Community",
+    "level": "Nursery–12",
+    "location": "Kankai, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management",
+      "+2 Technical"
+    ],
+    "info": "Shree Pashupati Technical Secondary School is a well-established educational institution located in Kankai, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management, +2 Technical. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Shree Pashupati Technical Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "shreepashupatitechnicalsecondaryschool@gmail.com",
+    "phone": "9701256890",
+    "map": "",
+    "image": "https://technicalpashupati.edu.np/backend/static/assets/images/Carousel/slide3.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREToZ1OMtgLhAEs-ULuTI-fLCFW6f_P7Wo5g&s"
+  },
+  {
+    "id": 14,
+    "name": "Harikul Namuna Secondary School",
+    "type": "Community",
+    "level": "1–12",
+    "location": "Surunga, Kankai, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Harikul Namuna Secondary School is a well-established educational institution located in Surunga, Kankai, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Harikul Namuna Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "harikulna",
+    "phone": "0236894579",
+    "map": "",
+    "image": "https://shreeharikul.com/harikul/img/cleannspacious.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC08zPb9tPCpSSuDJEkPnMcXNeA0RU0JqI1w&s"
+  },
+  {
+    "id": 15,
+    "name": "Gyan Jyoti Secondary School",
+    "type": "Community",
+    "level": "1–12",
+    "location": "Rajgadh, Bahradashi, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Gyan Jyoti Secondary School is a well-established educational institution located in Rajgadh, Bahradashi, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Gyan Jyoti Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "gjs@gmail.com",
+    "phone": "",
+    "map": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gyan_Jyoti_Higher_Secondary_School_Rajgadh-6_jhapa_Nepal.jpg/1200px-Gyan_Jyoti_Higher_Secondary_School_Rajgadh-6_jhapa_Nepal.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/GJHSS.png/250px-GJHSS.png"
+  },
+  
+
+  {
+    "id": 16,
+    "name": "Suryodaya English Awasiya Secondary School",
+    "type": "Private",
+    "level": "1–12",
+    "location": "Mechinagar, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Suryodaya English Awasiya Secondary School is a well-established educational institution located in Mechinagar, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Suryodaya English Awasiya Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "suryodayaenglish@gmail.com",
+    "phone": "9701276509",
+    "map": "",
+    "image": "https://i.ytimg.com/vi/ORpwmwwvfnI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLALLjJdyQY2NWIdzjECQEJkR4LIDQ",
+    "logo": "https://media.edusanjal.com/__sized__/logos/nava_suryodaya-thumbnail-200x200-70.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Himalayan English Academy Secondary School",
+    "type": "Private",
+    "level": "1–12",
+    "location": "Dhulabari, Mechinagar, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Himalayan English Academy Secondary School is a well-established educational institution located in Dhulabari, Mechinagar, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Himalayan English Academy Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "himalayanenglish@gmail.com",
+    "phone": "9809675629",
+    "map": "",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzgmkyx1VWO_ky4zlU1NEWdPKNYRIfVXTiduN-KpG8pMg5fVh9uOJt4WTuvRxbJPHu9I&usqp=CAU",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GgsEvo5GGvIxEKj1PUqryfelOl_A6tQxQg&s"
+  },
+  {
+    "id": 18,
+    "name": "Newton's Education Academy Secondary School",
+    "type": "Private",
+    "level": "PG–12",
+    "location": "Birtamod, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Newton's Education Academy Secondary School is a well-established educational institution located in Birtamod, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Newton's Education Academy Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "newtonseducational@gmail.com",
+    "phone": "9789238650",
+    "map": "",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjtEjikJzM-5ZzYhkamKbkN28_-QAowUZ_CQ&s",
+    "logo": "https://media.edusanjal.com/__sized__/logos/newton-logo-2075-thumbnail-200x200.png"
+  },
+  {
+    "id": 19,
+    "name": "Vidya Niketan Secondary School",
+    "type": "Community",
+    "level": "1–12",
+    "location": "Baniyani, Kachankawal, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Vidya Niketan Secondary School is a well-established educational institution located in Baniyani, Kachankawal, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Vidya Niketan Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "vidyaniketan@gmail.com",
+    "phone": "9713457294",
+    "map": "",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQIW5UAPRlgJ99UEKnz0mXh_XDBzpQKj2Qw&s",
+    "logo": "https://media.edusanjal.com/__sized__/logos/vidya_niketan_logo-thumbnail-200x200.png"
+  },
+
+  {
+    "id": 20,
+    "name": "Damak Model Secondary School",
+    "type": "Private",
+    "level": "1–12",
+    "location": "Damak-10, Model Chowk, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Damak Model Secondary School is a well-established educational institution located in Damak-10, Model Chowk, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Damak Model Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "damakmodel@gmail.com",
+    "phone": "9789797979",
+    "map": "",
+    "image": "https://www.modelcampusdamak.edu.np/uploads/20151126_151727.jpg",
+    "logo": "https://www.collegenp.com/uploads/2018/05/Damak-Model-Secondary-School.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Kanchanjunga English Secondary School",
+    "type": "Private",
+    "level": "Nursery–12",
+    "location": "Kanchanjunga Tole, Birtamod, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Kanchanjunga English Secondary School is a well-established educational institution located in Kanchanjunga Tole, Birtamod, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Kanchanjunga English Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "kanchanjungaenglish@gmail.com",
+    "phone": "9789477944",
+    "map": "",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrj_epdmRYl8SJJCAoZDdzFOlMk00z2-Ybg&s",
+    "logo": "https://kanchanjunga.edu.np/assets/images/logos.png"
+  },
+  {
+    "id": 22,
+    "name": "Balmiki Providence Secondary School",
+    "type": "Private",
+    "level": "1–12",
+    "location": "Birtamode-1, Balmiki Gaun, Jhapa",
+    "courses": [
+      "General Education",
+      "+2 Science",
+      "+2 Management"
+    ],
+    "info": "Balmiki Providence Secondary School is a well-established educational institution located in Birtamode-1, Balmiki Gaun, Jhapa. It offers comprehensive education from Nursery up to Grade 12, providing courses in General Education, +2 Science, +2 Management. The school emphasizes academic excellence, modern teaching methodologies, and holistic development of students. Students are encouraged to participate in extracurricular activities such as sports, arts, cultural programs, and community service. The dedicated teaching staff employs interactive, scientific, and student-centered pedagogical approaches to foster critical thinking and creativity. Balmiki Providence Secondary School is recognized in the local community for producing disciplined, skilled, and socially responsible graduates, and it continuously strives to maintain a safe, supportive, and motivating learning environment for all its students.",
+    "email": "balmikieducational@gmail.com",
+    "phone": "98765432158",
+    "map": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Balmiki_School.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8KCqn4HjQU4IxvgB7S53j0UzJvQE-MnqDOw&s"
+  },
+    {
+    "id": 23,
+    "name": "Adarsha Secondary School",
+    "type": "Private",
+    "level": "+2 and Diploma",
+    "location": "Biratnagar, Morang",
+    "courses": [
+      "Pre-Diploma in Computer Engineering",
+      "Diploma in Computer Engineering",
+      "Diploma in Civil Engineering",
+      "Ten Plus Two (+2) Education",
+      "Ten Plus Two (+2) Science"
+    ],
+    "info": "Adarsha Secondary School is one of the oldest and most trusted institutions in Biratnagar. The school provides both academic and technical education, blending modern teaching methods with experienced faculty. It is known for its well-equipped computer and science laboratories, practical-based learning, and emphasis on discipline and character development.",
+    "email": "info@adarshasecondary.edu.np",
+    "phone": "985-2676620",
+    "map": "https://www.google.com/maps/dir/26.4635269,87.277899/F77M%2B4RG+Adarsha+Secondary+School,+Biratnagar+56613/@26.4628065,87.2797015,1305m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39ef743e496e0069:0x33b3089b94465f45!2m2!1d87.2846272!2d26.4627895?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://scontent.fktm1-1.fna.fbcdn.net/v/t39.30808-6/475176069_941036301503862_2284260203578414193_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGD0LkQeN7tDvpAfe2mP94X7-UNrm052Anv5Q2ubTnYCQTTt27DSnjRLsJoa96qHU8V8gFh0rnmTAtbKUkMXb07&_nc_ohc=9OcpeKbNlEkQ7kNvwFU5wgC&_nc_oc=AdlViAF-tUU03DaGlFOfwMnVDKjvEYnzsVwX2enxW5x5_qhIDGEtfQYIDhxDfhq3qO4&_nc_zt=23&_nc_ht=scontent.fktm1-1.fna&_nc_gid=n8LwF5lS2UOqH94AZfTGwA&oh=00_AfVplVLF-7iRle95dI8BRr6aNBHDnFZI-n9PTy99EVVVPA&oe=68B5D40F",
+    "logo": "https://scontent.fktm1-1.fna.fbcdn.net/v/t39.30808-6/360147165_603359418604887_3931891597459349188_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHZs-nvGjY7Pnzdy-SuZEexv1-Jmg0bfUm_X4maDRt9SYGWZDa5XXa-DT1e_im5XOAnRwBemaVr0vZHB-Ckieo0&_nc_ohc=gzI1tUQbD9cQ7kNvwFoodWu&_nc_oc=AdnKuvwVitYvOvKvi3JGnPO6u8QIDi735lo3l8zsIwTFpMfi4oyIRURbXGdpVUH6Kv8&_nc_zt=23&_nc_ht=scontent.fktm1-1.fna&_nc_gid=SXL9YFK7fPyEW1El4A-gvA&oh=00_AfURt8NVMaRdRo1yrWj6BybTl2QYMisGeQXiNXRA_mB1cA&oe=68B5DC4F"
+  },
+  {
+    "id": 24,
+    "name": "Girija Prasad Koirala College of Agriculture and Research Centre",
+    "type": "Public",
+    "level": "Bachelor",
+    "location": "Biratnagar, Morang",
+    "courses": [
+      "B.Sc. Food, Nutrition & Dietetics",
+      "B.Sc. (Hons.) Agriculture"
+    ],
+    "info": "Girija Prasad Koirala College of Agriculture and Research Centre is dedicated to agricultural science and research. The college focuses on producing skilled manpower in food, nutrition, and sustainable agriculture practices. With advanced research facilities and experienced instructors, it contributes significantly to Nepal’s food security and agricultural innovation.",
+    "email": "gpkcollege@gmail.com",
+    "phone": "981-2354432",
+    "map": "https://www.google.com/maps/dir/26.6801597,87.3520725/M9J2%2B6X7+G.P.+Koirala+College+of+Agriculture+and+Research+Centre,+Sundar+Dulari+56600/@26.679434,87.3514318,302m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39ef68cd0a8f8f73:0x1200b5d6fa855a81!2m2!1d87.3524157!2d26.6805701?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://imgs.search.brave.com/ueA_jwimkwyq9Z0elbQCQFLYwH2lfIltxcV04AAOI68/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9saDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3Av/QUYxUWlwTlp6aUpK/am1qcFQtSnVheVZ2/RkFNdEgyam5rM1gt/cGI1MW1leUQ9czE2/MDAtdzQwMA",
+    "logo": "https://gpcar.edu.np/images/generalsetting/1611562128.png"
+  },
+  {
+    "id": 25,
+    "name": "Kankai Aadarsh Campus",
+    "type": "Community",
+    "level": "+2 and Master",
+    "location": "Morang",
+    "courses": [
+      "Ten Plus Two in Science",
+      "Ten Plus Two in Humanities",
+      "Ten Plus Two in Education",
+      "Ten Plus Two in Management",
+      "Master of Business Studies (MBS)"
+    ],
+    "info": "Kankai Adarsha Campus is a multidisciplinary community campus that provides quality education at both higher secondary and master’s level. The campus emphasizes academic excellence, community involvement, and personality development, offering a wide range of programs to suit diverse student interests. It has a strong reputation in the management and social sciences fields.",
+    "email": "info@kankaicampus.edu.np",
+    "phone": "980-2221188",
+    "map": "https://www.google.com/maps/dir/26.6441065,87.9961399/JXWW%2BCMQ+Kankai+Aadarsh+Campus,+Kankai+Rd,+Birtamod+57204/@26.6460915,87.9941551,1303m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39e5ba6143f995a9:0x1fc38e9ec296871d!2m2!1d87.9966489!2d26.6460848?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://scontent.fktm19-1.fna.fbcdn.net/v/t39.30808-6/449752829_122114762048346286_7889612210482845075_n.png?stp=dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeHSVLFc_Umkc61AcatOARJtM_3WnjXm9lYz_daeNeb2VsyAW9BtmsDBwoVbiBlK15pD2lBW1HbSjsZ3wFFdHxcA&_nc_ohc=PQvw_yRMmXQQ7kNvwGsPYd1&_nc_oc=AdkCDAPZlgdP3Cm3BmAP23apZOwU98OC7grpTZo088UFbqiudZcRXHyqqfvKde3Ydy0&_nc_zt=23&_nc_ht=scontent.fktm19-1.fna&_nc_gid=pEc3u90PUBP2SQ9-M7vthg&oh=00_AfX0T_35COv8Ksp3eXELxzDj5C_WVOZ5u9mPxDFGvsOeZA&oe=68B5CE1D",
+    "logo": "https://scontent.fktm1-1.fna.fbcdn.net/v/t39.30808-1/448159547_122107514108346286_3812955811504685680_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeH1mkeWlWWY2cQhz5Ocf2BfLM-ZCqppsXMsz5kKqmmxcwaHXDRRq2n_50O6QS07J6X0eRJdMJo45dooKex2bTnl&_nc_ohc=w_ZoDzTFqCsQ7kNvwGdivQc&_nc_oc=AdkPZqly2VJTZA3iXXffuQJ61t5RGAXrUKsyMEgT-IoNixq28gGT-p4FOBxzmACwgO4&_nc_zt=24&_nc_ht=scontent.fktm1-1.fna&_nc_gid=xEZvudjJlldbdXAzGfMiTA&oh=00_AfXebeqWUIEjwv-ctSF1cAP7nuXRSmqKvm4BiuYexx4Z4Q&oe=68B5D218"
+  },
+  {
+    "id": 26,
+    "name": "Madan Bhandari Memorial Academy Nepal",
+    "type": "Private",
+    "level": "Diploma and Bachelor",
+    "location": "Urlabari, Morang",
+    "courses": [
+      "Pre-Diploma in Livestock Production / Animal Health",
+      "PCL Nursing (Staff Nurse)",
+      "Diploma in Civil Engineering",
+      "B.Sc. Agriculture (Hons.)",
+      "Bachelor of Information Technology (BIT)"
+    ],
+    "info": "Madan Bhandari Memorial Academy Nepal was established in memory of the late leader Madan Bhandari to uplift rural communities through education. The academy offers programs in technical, medical, and IT fields, focusing on skill development, practical training, and modern teaching methods. It has become a hub for students aiming to build careers in health, technology, and agriculture.",
+    "email": "mbacademy@gmail.com",
+    "phone": "981-5550934",
+    "map": "https://www.google.com/maps/dir/26.6630617,87.5989214/Madan+Bhandari+Memorial+Academy+Nepal,+Urlabari+56600/@26.6618614,87.5981566,1303m/am=t/data=!3m1!1e3!4m12!4m11!1m0!1m5!1m1!1s0x39e58941cdc76fa9:0xd1f67b4629c0e5a5!2m2!1d87.599608!2d26.6619687!6m3!1i0!2i0!3i3?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://imgs.search.brave.com/0TZXYJomAJfr6GHQKdELG0ezKoMjQo-f1RP5lFbNABs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y29sbGVnZW5wLmNv/bS91cGxvYWRzLzIw/MjUvMDEvbWFkYW4t/YmhhbmRhcmktbWVt/b3JpYWwtYWNhZGVt/eS1uZXBhbC1idWls/ZGluZy5qcGVn",
+    "logo": "https://scontent.fktm1-1.fna.fbcdn.net/v/t39.30808-6/393397986_6080505442049997_5417842288419960855_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGwjLgUf2LYOs2wNIkbA871Q-nEBbHJvd5D6cQFscm93hqOlTGfRNsPWpwMWPPbzmBlByV3Q6mp6jKqf15zTiRc&_nc_ohc=lp5tHntpIXcQ7kNvwG-2yTc&_nc_oc=AdkMRoY5CkiHx2Ypvrhu3FxArWhRHGDiyy7p36rBB0MzHjpXVuPkeZzFRFDmQTj-VpU&_nc_zt=23&_nc_ht=scontent.fktm1-1.fna&_nc_gid=yd11y3GMbq9LglSHXIOqFg&oh=00_AfVzR911ouEBR270pqPbiraGJ21294x27rUd9wSd2YGTxg&oe=68B5CA29"
+  },
+  {
+    "id": 27,
+    "name": "Mahendra Morang Adarsha Multiple Campus",
+    "type": "Public",
+    "level": "Bachelor and Ph.D.",
+    "location": "Biratnagar, Morang",
+    "courses": [
+      "Bachelors of Arts in Social Work (BASW)",
+      "Bachelors in Social Work (BSW)",
+      "Ph.D. in Zoology",
+      "Ph.D. in Botany",
+      "Ph.D. in Chemistry"
+    ],
+    "info": "Mahendra Morang Adarsha Multiple Campus is one of the most prestigious public campuses in Province 1. Affiliated with Tribhuvan University, it is widely recognized for its research-based programs and highly qualified faculty. The campus offers a rich academic environment for bachelor and Ph.D. students, especially in the fields of science, social work, and research.",
+    "email": "mahendramorangcampus@gmail.com",
+    "phone": "985-2094420",
+    "map": "https://www.google.com/maps/dir/26.6638368,87.63806/Morang+Model+College+%26+School,+Madhumalla+Road,+Urlabari+56604/@26.6656479,87.6410234,1034m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39e58e963bef232b:0x41f3492a360ee97c!2m2!1d87.6392591!2d26.6672013?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://imgs.search.brave.com/mi7qGK6YsHgXKLhXOtBdiNeKdJyrQffQsQ0WEI4hWEM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29sbGVnZW5wLmNv/bS91cGxvYWRzLzIw/MjQvMTIvbWFoZW5k/cmEtbW9yYW5nLWFk/YXJzaGEtbXVsdGlw/bGUtY2FtcHVzLWJ1/aWxkaW5nLmpwZw",
+    "logo": "https://portal.tu.edu.np/medias/tu-logo_2022_05_16_05_30_03.png"
+  },
+  {
+    "id": 28,
+    "name": "Manmohan Memorial Polytechnic",
+    "type": "Public",
+    "level": "Diploma",
+    "location": "Morang",
+    "courses": [
+      "Diploma in Information Technology",
+      "Diploma in Electrical & Electronics Engineering",
+      "Diploma in Architecture Engineering",
+      "Diploma in Mechanical Engineering",
+      "Diploma in Electronics Engineering"
+    ],
+    "info": "Manmohan Memorial Polytechnic is a government-owned technical institution offering various diploma-level engineering programs. It focuses on producing technically skilled manpower to meet Nepal’s growing demand in engineering and technology fields. The polytechnic is known for practical-based education, modern workshops, and strong placement opportunities.",
+    "email": "manmohanpolytechnic@gmail.com",
+    "phone": "980-3451122",
+    "map": "https://www.google.com/maps/dir/Hotel+Reshma/Manmohan+Memorial+Polytechnic,+Budhiganga-4/@26.5721846,87.2781468,5633m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x39ef726a78ad49dd:0x9b0a9ce5e9f18fce!2m2!1d87.2789513!2d26.558522!1m5!1m1!1s0x39ef72217d254661:0x231fd54332e0e36c!2m2!1d87.2947495!2d26.5557205!5i1?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://www.mmp.edu.np/images/banners/djimagesliderfolder/mmp_parisar.jpg?mt=1717261798&loaded=2",
+    "logo": "https://www.mmp.edu.np/images/banners/2082-04-25.jpg?mt=1754844942&loaded=1"
+  },
+  {
+    "id": 29,
+    "name": "Nobel Medical College",
+    "type": "Private",
+    "level": "Diploma and Bachelor",
+    "location": "Morang",
+    "courses": [
+      "Bachelor in Medical Laboratory Technology (B.Sc. MLT)",
+      "Diploma in Pharmacy",
+      "Certificate in Dental Science (Dental Hygiene)",
+      "Certificate in Diagnostic Radiography",
+      "PCL Medical Lab Technology"
+    ],
+    "info": "Nobel Medical College is one of Nepal’s top private medical colleges, affiliated with Kathmandu University. It is widely respected for its modern infrastructure, expert doctors as faculty, and focus on practical medical training. The college has produced thousands of successful health professionals and continues to serve as a hub for healthcare education in eastern Nepal.",
+    "email": "admission@nobelmedical.edu.np",
+    "phone": "985-2689955",
+    "map": "https://www.google.com/maps/dir/26.4896462,87.2780031/F7R9%2B5PF+Nobel+Medical+College+Basic+Sciences,+Kanchanbari,+Biratnagar+56613/@26.4900495,87.2671885,1305m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39ef73a3e9a310c5:0xe110f961935de2a6!2m2!1d87.2693!2d26.4904376?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://www.nobelmedicalcollege.com.np/uploads/slider/Z8csoGqZHYyTOGxoV3ZOSUBTp2cWK2gYnX3VV8Eo.webp",
+    "logo": "https://nobelmedicalcollege.com.np/uploads/settings/KrASNwIY7ct3nNMnGUF6pFXNnxJRJNtJWM2OFxap.png"
+  },
+  {
+    "id": 30,
+    "name": "Purbanchal University School of Management (PUSOM)",
+    "type": "Public",
+    "level": "Bachelor, Master, Ph.D.",
+    "location": " Morang",
+    "courses": [
+      "Ph.D. in Management",
+      "M.Phil. in Management",
+      "Master of Business Administration (MBA) Spring",
+      "Master of Business Administration (MBA) Fall",
+      "Bachelor of Business Administration (BBA)"
+    ],
+    "info": "Purbanchal University School of Management (PUSOM) is the central management school of Purbanchal University. It is renowned for its MBA and doctoral programs, offering students exposure to international-level curriculum and research. The school emphasizes leadership, entrepreneurship, and innovation, preparing students to excel in the global business environment.",
+    "email": "pusom.edu.np@gmail.com",
+    "phone": "980-7775643",
+    "map": "https://www.google.com/maps/dir/26.4728788,87.2765042/F7CQ%2BGG6+Purbanchal+University+School+of+Management,+Swastik+Road,+Biratnagar+56613/@26.4708297,87.2838357,1305m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39ef756b4ce4eb71:0xcea1872145657577!2m2!1d87.2887785!2d26.4712877?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://imgs.search.brave.com/p3eBVii1KXt6acY8a-U5VQqlaMU6RpDzoitrAz7Shn8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y29sbGVnZW5wLmNv/bS91cGxvYWRzLzIw/MjUvMDIvcHVyYmFu/Y2hhbC11bml2ZXJz/aXR5LXNjaG9vbC1v/Zi1tYW5hZ2VtZW50/LXB1c29tLmpwZw",
+    "logo": "https://pusom.edu.np/img/mgmt.png"
+  },
+  {
+    "id": 31,
+    "name": "Sailaja Acharya Memorial Polytechnic Institute",
+    "type": "Community",
+    "level": "Pre-Diploma and Diploma",
+    "location": "Morang",
+    "courses": [
+      "Pre-Diploma in Survey Engineering",
+      "Pre-Diploma in Computer Engineering",
+      "Pre-Diploma in Agriculture (Plant Science)",
+      "Pre-Diploma in Livestock Production / Animal Health",
+      "Diploma in Civil Engineering"
+    ],
+    "info": "Sailaja Acharya Memorial Polytechnic Institute provides technical education aimed at producing middle-level skilled manpower. The institute focuses on agriculture and engineering disciplines, helping students gain practical skills that can be applied in industries and rural development. It is well-regarded for its affordable education and career-oriented training.",
+    "email": "sailajapolytechnic@gmail.com",
+    "phone": "981-4451178",
+    "map": "https://www.google.com/maps/dir/26.4675396,87.3565574/Sailaja+Acharya+Memorial+Polytechnic,+%E0%A4%9C%E0%A4%B9%E0%A4%BE%E0%A4%A6%E0%A4%BE+33007/@26.4644453,87.3516514,2713m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39ef77038d43f867:0xa91ff2aa9bcd32ef!2m2!1d87.3498813!2d26.4549855?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://imgs.search.brave.com/ueA_jwimkwyq9Z0elbQCQFLYwH2lfIltxcV04AAOI68/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9saDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3Av/QUYxUWlwTlp6aUpK/am1qcFQtSnVheVZ2/RkFNdEgyam5rM1gt/cGI1MW1leUQ9czE2/MDAtdzQwMA",
+    "logo": "https://imgs.search.brave.com/ygSClIX6F8U1TYQQpuGsAtSJ0QqACcFfbfWl5C_r6ik/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y29sbGVnZW5wLmNv/bS91cGxvYWRzLzIw/MjQvMDgvU2FpbGFq/YS1BY2hhcnlhLU1l/bW9yaWFsLVBvbHl0/ZWNobmljLUluc3Rp/dHV0ZS5wbmc"
+  },
+  {
+    "id": 32,
+    "name": "AIMS College Biratnagar",
+    "type": "Private",
+    "level": "Bachelor and Master",
+    "location": "Morang",
+    "courses": [
+      "Bachelor of Hotel Management (BHM)",
+      "Master of Business Studies (MBS)",
+      "Bachelor of Business Studies (BBS)",
+      "Bachelor of Arts (BA)",
+      "B.Sc. Computer Science and Information Technology (B.Sc. CSIT)"
+    ],
+    "info": "AIMS College Biratnagar is a reputed private institution offering programs in IT, hospitality, and management. The college is known for its industry-oriented teaching, internship opportunities, and supportive learning environment. With dedicated faculty and modern facilities, AIMS has become a popular choice for students aiming to build professional careers.",
+    "email": "info@aimscollege.edu.np",
+    "phone": "980-2211134",
+    "map": "https://www.google.com/maps/dir/26.453029,87.276977/AIMS+College,+Bhanu+tole,+14+College+Rd,+Biratnagar+56700/@26.451934,87.2755179,1305m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x39ef7446212f2021:0x7f6e455ad959c6d5!2m2!1d87.2780928!2d26.451934?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://imgs.search.brave.com/tIGVMwK_4RA3x91zzJmtXsTD4CRrtEFGEVEKXJPBKPE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YWltc2JydC5lZHUu/bnAvY29sbGVnZS5q/cGc",
+    "logo": "https://imgs.search.brave.com/b2b11x318jUHgAIwMFG0HGK0qVKiycldOStn1ExvxgM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9rYWhh/Ni5jb20vd3AtY29u/dGVudC91cGxvYWRz/L0FJTVMtQ29sbGVn/ZS1CaXJhdG5hZ2Fy/LU1vcmFuZy5qcGc"
+  },
+  {
+        "id": 33,
+        "name": "Aagaman Campus, Sunsari",
+        "type": "Private",
+        "level": "+12-above",
+        "location": "Duhabi, Sunsari",
+        "courses": [
+            "Ten Plus Two in Science",
+            "Ten Plus Two in Management",
+            "Ten Plus Two in Education",
+            "Bachelor of Business Studies (BBS)",
+            "Bachelor of Education (B.Ed)",
+            "Bachelor of Hotel Management (BHM)",
+            "Bachelor of Science (B.Sc) General"
+        ],
+        "info": "Aagaman Campus, located in Duhabi, Sunsari, is a reputed higher educational institution offering both Ten Plus Two and Bachelor-level programs. The campus provides courses in +2 Science, +2 Management, and +2 Education, along with Bachelor’s programs such as BBS, B.Ed, BHM, and B.Sc General. With its commitment to academic excellence and holistic development, Aagaman Campus emphasizes practical learning, critical thinking, and creativity.",
+        "email": "info@aagamancampus.edu.np",
+        "phone": "025-540100",
+        "map": "",
+        "image": "https://www.collegenp.com/uploads/2024/12/aagaman-campus-duhabi-building.jpg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=Grammatikfehler:tbn:ANd9GcRA2c_0npWLUhU8KOUT977AF3zXzO4aDIIblQ&s"
+    },
+    {
+        "id": 34,
+        "name": "Viswa Adarsha Secondary School, Sunsari",
+        "type": "Private",
+        "level": "+12-above",
+        "location": "Sunsari",
+        "courses": [
+            "Bachelor of Computer Application (BCA)",
+            "Bachelor of Business Administration (BBA)",
+            "Master of Business Studies (MBS)"
+        ],
+        "info": "Viswa Adarsha Secondary School, situated in Sunsari, is a well-known institution providing both higher secondary and advanced-level studies. It offers programs such as BCA, BBA, and MBS. The school prepares students for dynamic professional careers with innovative teaching and modern infrastructure.",
+        "email": "contact@viswaadarsha.edu.np",
+        "phone": "025-530210",
+        "map": "",
+        "image": "https://vac.edu.np/uploads/faculties/1718426250358031982_748411110625712_7534613391687725683_n.jpg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=Grammatikfehler:tbn:ANd9GcQG2i5TYTAO-ikvQzfLGnlJ-PcOgJmC_K-yDg&s"
+    },
+    {
+        "id": 35,
+        "name": "Alpine Group of College, Sunsari",
+        "type": "Private",
+        "level": "+12-above",
+        "location": "Dharan, Sunsari",
+        "courses": [
+            "Bachelor of Computer Applications (BCA)",
+            "B.Tech"
+        ],
+        "info": "Alpine Group of College, located in Dharan, Sunsari, is a modern institution offering specialized programs in IT and Engineering. The college provides BCA and B.Tech programs, focusing on innovation, industry exposure, and technical skills development.",
+        "email": "admission@alpinecollege.edu.np",
+        "phone": "025-530500",
+        "map": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=Grammatikfehler:tbn:ANd9GcTAA7ynXcQL8TYPK2kS9ioZIRlE0wa4hE3guQ&s",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=Grammatikfehler:tbn:ANd9GcRP39k8LEaETTFwtI0tuzDomD8BQ0xEvgTFKp23wPp8ApK2zlM0UJwzLN4PJnTEoF8tFKI&usqp=CAU"
+    },
+    {
+        "id": 36,
+        "name": "Ambika Health Training School, Sunsari",
+        "type": "Private",
+        "level": "+12-above",
+        "location": "Itahari, Sunsari",
+        "courses": [
+            "Proficiency Certificate in Medical Lab Technology",
+            "Proficiency Certificate in General Medicine"
+        ],
+        "info": "Ambika Health Training School, based in Itahari, Sunsari, is a leading institute for healthcare education. It offers Proficiency Certificate programs in Medical Lab Technology and General Medicine, focusing on practical skills, clinical expertise, and professional development.",
+        "email": "info@ambikahealth.edu.np",
+        "phone": "025-580320",
+        "map": "",
+        "image": "https://campusways.com/wp-content/uploads/2023/03/Ambika-2.jpg.webp",
+        "logo": "https://www.collegenp.com/uploads/2018/07/Helath-Training-School.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Baglamukhi Multiple Technical Institute, Sunsari",
+        "type": "Private",
+        "level": "+12-above",
+        "location": "Itahari, Sunsari",
+        "courses": [
+            "Pre-Diploma in Livestock Production / Animal Health",
+            "Proficiency Certificate in General Medicine",
+            "Pre-Diploma in Electrical Sub Overseer",
+            "Pre-Diploma in Veterinary JTA (VJTA)",
+            "Pre-Diploma in Civil Sub Overseer"
+        ],
+        "info": "Baglamukhi Multiple Technical Institute, located in Itahari, Sunsari, is a prominent technical and vocational education provider. It offers various Pre-Diploma programs and Proficiency Certificate courses with a focus on skill-based training.",
+        "email": "info@baglamukhi.edu.np",
+        "phone": "025-581400",
+        "map": "",
+        "image": "https://kaha6.com/wp-content/uploads/Bagalamukhi-Multiple-Technical-Institute.jpg",
+        "logo": "https://scontent.fbir1-1.fna.fbcdn.net/v/t39.30808-6/299810568_409413781326794_7735512034330470735_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Xx7tT8ROPZgQ7kNvwEu-a0j&_nc_oc=AdndjOoNWJqhLNEZMbXGugIRnij9eBgsaFPIJlA3_A5dePpJVVaGGyp3SEaXz3t8f4dEZz6jf12K1NbxmPax0LBL&_nc_zt=23&_nc_ht=scontent.fbir1-1.fna&_nc_gid=jtM4C9xFvhOshhPRRht0DA&oh=00_AfVab013oRKxh_n50sh33FCN9lqUOyArOaQDlqJiwrn9BA&oe=68B5BD87"
+    },
+    {
+        "id": 38,
+        "name": "Adarsha Multiple Campus, Sunsari",
+        "type": "Private",
+        "level": "+12-above",
+        "location": "Sunsari",
+        "courses": [
+            "Bachelor of Business Studies (BBS)"
+        ],
+        "info": "Adarsha Multiple Campus, located in Sunsari, is a community-based higher education institution offering the BBS program. The campus focuses on business education, discipline, and leadership development.",
+        "email": "adarshacampus@edu.np",
+        "phone": "025-560200",
+        "map": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=Grammatikfehler:tbn:ANd9GcQol4I5QJzhkzsHD-HyuY7f0Et7UhVrK3qHZw&s",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=Grammatikfehler:tbn:ANd9GcRfQVBN_tnRG6dnstcnkR_YlBWqcqhTGjkfTw&s"
+    },
+    {
+        "id": 39,
+        "name": "Bhadgaun Sinuwari Multiple Campus, Sunsari",
+        "type": "Private",
+        "level": "+12-above",
+        "location": "Jhumka, Sunsari",
+        "courses": [
+            "Bachelor of Business Studies (BBS)",
+            "Bachelor of Education (B.Ed)"
+        ],
+        "info": "Bhadgaun Sinuwari Multiple Campus, situated in Jhumka, Sunsari, offers programs in Business Studies and Education. The campus emphasizes value-based education, practical learning, and overall student development.",
+        "email": "info@bhadgauncampus.edu.np",
+        "phone": "025-570310",
+        "map": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=Grammatikfehler:tbn:ANd9GcQol4I5QJzhkzsHD-HyuY7f0Et7UhVrK3qHZw&s",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=Grammatikfehler:tbn:ANd9GcQol4I5QJzhkzsHD-HyuY7f0Et7UhVrK3qHZw&s"
+    },
+    {
+        "id": 40,
+        "name": "Birendra Memorial College, Sunsari",
+        "type": "Private",
+        "level": "+12-above",
+        "location": "Dharan, Sunsari",
+        "courses": [
+            "Bachelor of Science (B.Sc) in Microbiology",
+            "Bachelor of Business Studies (BBS)",
+            "B.Sc. Computer Science and Information Technology (B.Sc. CSIT)",
+            "Master of Business Studies (MBS)"
+        ],
+        "info": "Birendra Memorial College, located in Dharan, Sunsari, provides both Bachelor’s and Master’s programs. Known for its quality education in science, IT, and business, the college emphasizes research and innovation.",
+        "email": "contact@birendramemorial.edu.np",
+        "phone": "025-531500",
+        "map": "",
+        "image": "https://saralnotes.com/wp-content/uploads/2019/11/dharan.jpeg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=Grammatikfehler:tbn:ANd9GcSk-uv_YXOFiuNXf_Hxz5QO7D17VFq7sjgACw&s"
+    },
+    {
+        "id": 41,
+        "name": "Depot Adarsha Multiple Campus, Sunsari",
+        "type": "Private",
+        "level": "+12-above",
+        "location": "Dharan, Sunsari",
+        "courses": [
+            "Bachelor of Business Studies (BBS)"
+        ],
+        "info": "Depot Adarsha Multiple Campus, located in Dharan, Sunsari, is a community-focused institution offering the BBS program. It blends theoretical knowledge with practical business applications.",
+        "email": "info@depotadarsha.edu.np",
+        "phone": "025-540700",
+        "map": "",
+        "image": "https://media.edusanjal.com/__sized__/cover_photo/jmc-cover35-crop-c0-5__0-5-302x128-70.jpg",
+        "logo": "https://www.collegenp.com/uploads/2024/09/Depot-Adarsha-Multiple-Campus.png"
+    }
+]
